@@ -116,10 +116,34 @@ h2, .h2 {
     font-size: 0.9rem;
 }
 
+
+.list-social-icon2 a .fa-l42{
+    font-size:1rem
+}
+
+.fa-l42 .fa-stack-1x {
+    font-size: 1rem;
+}
+
+.fa-l42 {
+    font-size: .9rem;
+    margin-left: -.3rem;
+    margin-right: -.3rem;
+}
+
+.fa-l42 .fa-inverse:hover{
+    color:#ff4646;
+}
+
+.fa-l42 .fa-inverse:{
+    color:#4dffe9a1;
+}
+
 .fa-l3 {
     font-size: .9rem;
     margin-left: 0.4rem;
 }
+
 
 .fa-l3 .fa-inverse:hover{
     color: #ffffff5c;
