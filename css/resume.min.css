@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6{
     font-family:'Fira Sans',serif;
     font-weight:700;
     text-transform:uppercase;
-    color:#4dffa3
+    color:#4dffe9
 }
 
 h1{
@@ -46,11 +46,11 @@ h2, .h2 {
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #4dffa3;
+    color: #4dffe9;
 }
 
 .h3, h3 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     letter-spacing: 1px;
     font-family:'Fira Sans',serif;
     font-weight:400;
@@ -68,7 +68,7 @@ h2, .h2 {
     text-transform:uppercase;
     font-weight:300;
     font-family:'Fira Sans',serif;
-    font-size:.9rem;
+    font-size:.7rem;
     margin-bottom: 0rem;
     margin-top: -.7rem;
     margin-bottom: 0.5rem;
@@ -89,7 +89,7 @@ h2, .h2 {
 }
 
 .list-social-icons a:hover{
-    color:#1a9c62
+    color:#ff4646
 }
 
 .list-social-icons a .fa-lg{
@@ -105,15 +105,15 @@ h2, .h2 {
 }
 
 .list-social-icon2 a:hover{
-    color:#1a9c62
+    color:#ff4646
 }
 
 .list-social-icon2 a .fa-l2{
-    font-size:1.2rem
+    font-size:1rem
 }
 
 .fa-l2 .fa-stack-1x {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
 }
 
 .fa-l3 {
@@ -134,7 +134,7 @@ h2, .h2 {
 }
 
 .list-icons .list-inline-item i:hover{
-    color:#1a9c62
+    color:#ff4646
 }
 
 #sideNav .navbar-nav .nav-item .nav-link{
@@ -230,11 +230,11 @@ section.resume-section .resume-item .resume-date{
 }
 
 a{
-        color: #56fbb2;
+        color: #64fdf0;
 }
 
 a:active,a:focus,a:hover{
-    color:#1a9c62
+    color:#ff4646
 }
 
 
@@ -247,7 +247,6 @@ a:active,a:focus,a:hover{
     font-family:'Fira Sans',serif;
   border: none;
   color: rgba(255,255,255,1);
-  text-align: center;
   -o-text-overflow: clip;
   text-overflow: clip;
   letter-spacing: 3px;
