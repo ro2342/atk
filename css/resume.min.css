@@ -8,8 +8,14 @@ body{
     }
 }
 
+@media (max-width: 991px) { 
+h1 img { display: block;
+    margin-left: auto;
+    margin-right: auto; }  
+}
+
 h1,h2,h3,h4,h5,h6{
-    font-family:'Saira Extra Condensed',serif;
+    font-family:'Fira Sans',serif;
     font-weight:700;
     text-transform:uppercase;
     color:#4dffa3
@@ -27,14 +33,14 @@ h2{
 .h3, h3 {
     font-size: 1.75rem;
     letter-spacing: 1px;
-    font-family:'Saira Extra Condensed',serif;
+    font-family:'Fira Sans',serif;
     font-weight:400;
 }
 
 .subheading{
     text-transform:uppercase;
-    font-weight:500;
-    font-family:'Saira Extra Condensed',serif;
+    font-weight:300;
+    font-family:'Fira Sans',serif;
     font-size:1.35rem
 }
 
@@ -130,7 +136,7 @@ section.resume-section .resume-item .resume-date{
 }
 
 .bg-primary{
-    background-color:#bd5d38!important
+    background-color:#212529!important
 }
 
 .text-primary {
