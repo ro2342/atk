@@ -248,13 +248,16 @@ a:active,a:focus,a:hover{
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
+        text-transform:uppercase;
+    font-weight:200;
+    font-family:'Fira Sans',serif;
   border: none;
-  color: rgba(84,83,83,0.82);
+  color: rgba(255,255,255,1);
+  text-align: center;
   -o-text-overflow: clip;
   text-overflow: clip;
-  letter-spacing: 1px;
-  word-spacing: -8px;
-  text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+  letter-spacing: 3px;
+  text-shadow: -3px 0 1px rgb(30,242,241) , 4px 0 1px rgb(246,5,10) ;
 }
 
 .resume-content {
@@ -288,7 +291,7 @@ background-image: url(bob.png);
 @media (min-width:522px){
 .hilow {
     font-size: 3rem;
-    font-weight:400;
+    font-weight:300;
     text-align: center;
     
 }
