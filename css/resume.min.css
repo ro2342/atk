@@ -167,6 +167,14 @@ h2, .h2 {
     letter-spacing: 2px;
 }
 
+
+.nav-ite2{
+    font-weight:100;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    font-size: 0.5rem
+}
+
 @media (min-width:992px){
     #sideNav{
         text-align:center;
